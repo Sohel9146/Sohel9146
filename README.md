@@ -20,7 +20,7 @@
 - 📝 I plan to write articles on *(DevOps blogs coming soon on Medium)*  
 - 💬 Ask me about **Jenkins, GitHub Webhooks, Docker, and CI/CD Pipelines**  
 - 📫 Reach me at: **suhailshaikh7866@gmail.com**  
-- 📄 Check out my resume: [**Click Here**](https://github.com/Sohel9146/Shaikh-Sohel-Resume)  
+- 📄 Check out my resume: [**Click Here**](https://github.com/Sohel9146/Sohel9146/blob/0128c1a38216cd3b45c0df73d799b5e1c1e97216/Shaikh-Sohel-Resume.pdf)  
 - ⚡ Fun fact: *I think I’m funny — but Jenkins never laughs at my pipeline jokes 😅*
 
 ---
